@@ -1,6 +1,6 @@
 # Node.js Course - S13 Working with Mongoose
 
-Practice code for Section 13 - Working with Mongoose, part of the course "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)" by Maximilian Schwarzmüller.
+Practice code for Section 13 - Working with Mongoose, part of the course "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)" by Academind, Maximilian Schwarzmüller.
 
 This project covers:
 - Setting up and configuring Mongoose as an ODM _(Object Data Modeling)_ library for MongoDB
